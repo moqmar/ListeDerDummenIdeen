@@ -5,3 +5,4 @@ Details zu Projekten werden als Unterordner angelegt und der Einfachheit halber 
 
 - [x] Eine Liste mit dummen Ideen als GitHub-Repo anlegen
 - [ ] Timecode Displays, über WLAN synchronisiert
+- [ ] Flaschenpost mit GPS-Tracking
