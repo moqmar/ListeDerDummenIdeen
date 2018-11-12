@@ -10,3 +10,5 @@ Details zu Projekten werden als Unterordner angelegt und der Einfachheit halber 
 - [ ] Rückfahrkamera für den Anhänger
 - [ ] Presenter selber bauen
 - [ ] Anhänger-Beleuchtungs-Tester bauen
+- [ ] 3,5"-Display mit Server-/Netzwerk-Statusinformationen  
+      (Internetgeschwindigkeits-/Ping-Diagramm, CPU/RAM, Geräte im Netzwerk, ...)
