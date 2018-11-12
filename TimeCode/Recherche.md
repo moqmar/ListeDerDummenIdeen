@@ -4,6 +4,7 @@
     - 32 x 64 Pixel
     - Leistungsaufnahme < 20 W bei 5 V
     - 10,99 € + ca. 7 € Versand = ca. 18 € pro Stück
+- Alternative: [Billig China ding](https://de.aliexpress.com/item/32x16-indoor-RGB-hd-p8-indoor-led-module-video-wall-high-quality-P2-5-P3-P4/32754106998.html)
 - Ansteuerung über HUB75
     - [Infos zum Interface](https://www.thingiverse.com/thing:1508087) *Noch nicht genau untersucht, ob da was sinnvolles dabei ist*
     - [Library](https://github.com/stepanov1975/HUB75driver) *auch noch nicht genau evaluiert*
