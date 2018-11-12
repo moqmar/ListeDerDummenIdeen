@@ -1,0 +1,9 @@
+- [LED-Matrix](https://www.aliexpress.com/item/P4-4mm-Indoor-RGB-Full-Color-LED-Display-Module-256-128mm-64-32-pixel-LED-Screen/32345760333.html)
+    - Verwendet das HUB75 Interface
+    - 12,8 cm x 25,6 cm 
+    - 32 x 64 Pixel
+    - Leistungsaufnahme < 20 W bei 5 V
+    - 10,99 € + ca. 7 € Versand = ca. 18 € pro Stück
+- Ansteuerung über HUB75
+    - [Infos zum Interface](https://www.thingiverse.com/thing:1508087) *Noch nicht genau untersucht, ob da was sinnvolles dabei ist*
+    - [Library](https://github.com/stepanov1975/HUB75driver) *auch noch nicht genau evaluiert*
