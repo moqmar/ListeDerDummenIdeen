@@ -8,3 +8,5 @@ Details zu Projekten werden als Unterordner angelegt und der Einfachheit halber 
 - [ ] Timecode Displays, über WLAN synchronisiert
 - [ ] Flaschenpost mit GPS-Tracking
 - [ ] Rückfahrkamera für den Anhänger
+- [ ] Presenter selber bauen
+- [ ] Anhänger-Beleuchtungs-Tester bauen
